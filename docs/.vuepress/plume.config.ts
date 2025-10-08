@@ -18,7 +18,7 @@ import { enNotes, zhNotes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: './SOSD.svg',
+  logo: './molihua-wiki/SOSD.svg',
 
   appearance: true, 
 
@@ -55,8 +55,8 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: './SOSD.svg',
-        name: 'S0SD Technical Blog',
+        avatar: './molihua-wiki/SOSD.svg',
+        name: 'SOSD Molihua',
         description: 'Knowledge Repository',
         circle: true,
         location: '',
@@ -82,8 +82,8 @@ export default defineThemeConfig({
        * @see https://theme-plume.vuejs.press/config/basic/#profile
        */
       profile: {
-        avatar: './SOSD.svg',
-        name: 'S0SD Technical Blog',
+        avatar: './molihua-wiki/SOSD.svg',
+        name: 'SOSD Molihua',
         description: 'Knowledge Repository',
         // circle: true,
         // location: '',

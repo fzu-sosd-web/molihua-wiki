@@ -14,8 +14,8 @@ export const zhNavbar = defineNavbarConfig([
   // { text: '归档', link: '/blog/archives/' },
   { text: "茉莉花", link: "/Molihua/" },
   {text: "学习路线",link: "/LearningRoute/",},
-  { text: "关于我们", link: "/About/" },
   { text: "计算机内功", link: "/ComputerFundamentals/" },
+  { text: "关于我们", link: "/About/" },
 ]);
 
 export const enNavbar = defineNavbarConfig([
@@ -26,6 +26,6 @@ export const enNavbar = defineNavbarConfig([
   // { text: 'Archives', link: '/en/blog/archives/' },
   { text: "Molihua", link: "/en/Molihua/" },
   { text: "Learning Route",link: "/LearningRoute/",},
-  { text: "About Us", link: "/en/About/" },
   { text: "Computer Fundamentals", link: "/en/ComputerFundamentals/" },
+  { text: "About Us", link: "/en/About/" },
 ]);

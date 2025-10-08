@@ -12,7 +12,7 @@ config:
       text: 我们是一支年轻、充满活力的团队！
       actions:
         - theme: brand
-          text: 茉莉花
+          text: 进入Wiki
           link: /Molihua/
         - theme: alt
           text: Github →

@@ -8,12 +8,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'S0SD Technical Blog',
+      title: 'SOSD Molihua',
       lang: 'zh-CN',
       description: 'Knowledge Repository',
     },
     '/en/': {
-      title: 'S0SD Technical Blog',
+      title: 'SOSD Technical Blog',
       lang: 'en-US',
       description: 'Knowledge Repository',
     },
@@ -21,7 +21,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/SOSD.png' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/molihua-wiki/SOSD.png' }],
   ],
 
   // 将vite配置移到bundler选项中
