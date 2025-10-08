@@ -18,5 +18,5 @@ config:
         -
           theme: alt
           text: Github →
-          link: https://github.com/Preface-lb/SOSD-Official-Technical-Blog
+          link: https://github.com/fzu-sosd-web/molihua-wiki
 ---

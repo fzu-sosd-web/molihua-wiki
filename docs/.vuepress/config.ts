@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 import path from "path";
 
 export default defineUserConfig({
-  base: '/',
+  base: '/molihua-wiki/',
   lang: 'zh-CN',
   locales: {
     '/': {
