@@ -23,7 +23,7 @@ export default defineThemeConfig({
   appearance: true, 
 
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/fzu-sosd-web/molihua-wiki' },
   ],
   navbarSocialInclude: ['github'], 
   aside: true, 
