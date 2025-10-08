@@ -14,6 +14,16 @@ molihua(茉莉花)原本是SOSD内网的一个wiki知识库系统，是我们内
 
 我们也希望molihua能承担更多的职责，比如提供一些我们**考核期的学习路线文档**，一些我们可以公开的内部**公开课的课件**，关于**计算机内功的一些修炼指南**，一些推荐的**国外名校公开课**(rock学长极力推荐)，又甚至是一些**面试的经验**......
 
+!!! question "如何参与？" 
+
+首先你需要大概了解我们使用的[开源docs框架](https://squidfunk.github.io/mkdocs-material/setup/)，然后你可能需要掌握基本的git工作流程，使用pr提交你分享的宝贵的知识。[仓库地址](https://github.com/Fzu-SOSD-Lab/molihua)
+
+!!! question "不会使用git || 不会这个docs框架？" 
+  
+没关系，你可以在[关于我们](./about.md)找到我们实验室维护这个平台的同学的邮箱，发送你的诉求，我们会帮你进行相关的操作。
+
+!!! success "如果你觉得molihua不错，欢迎在github上给我们点个star哦 [star](https://github.com/Fzu-SOSD-Lab/molihua)"
+
 molihua会是什么样的，取决于大家，非常欢迎大家加入我们，共同维护这个平台。
 
 网址：[molihua.wiki](https://fzu-sosd-web.github.io/molihua-wiki/)
