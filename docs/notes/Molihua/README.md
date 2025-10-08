@@ -27,6 +27,6 @@ molihua会是什么样的，取决于大家，非常欢迎大家加入我们，�
 
 As always, thanks to our amazing contributors!
 
-<a href="https://github.com/Fzu-SOSD-lab/molihua/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Fzu-SOSD-lab/molihua" />
+<a href="https://github.com/fzu-sosd-web/molihua-wiki/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=fzu-sosd-web/molihua-wiki" />
 </a>
