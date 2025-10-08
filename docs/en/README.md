@@ -9,7 +9,7 @@ config:
     hero:
       name: Fuzhou University
       tagline: SOSD Official Technical Blog
-      text: We firmly believe that hero continues!
+      text: '<span style="line-height: 1.8;">We are a young and dynamic team!<br>Innovation, creativity, creation<br>With our passion and wisdom, we change lives and transform the world!</span>'
       actions:
         -
           theme: brand

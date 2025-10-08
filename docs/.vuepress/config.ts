@@ -13,7 +13,7 @@ export default defineUserConfig({
       description: 'Knowledge Repository',
     },
     '/en/': {
-      title: 'SOSD Technical Blog',
+      title: 'SOSD Molihua',
       lang: 'en-US',
       description: 'Knowledge Repository',
     },

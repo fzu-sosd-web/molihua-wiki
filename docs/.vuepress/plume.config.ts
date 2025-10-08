@@ -18,7 +18,7 @@ import { enNotes, zhNotes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: './molihua-wiki/SOSD.svg',
+  logo: './SOSD.svg',
 
   appearance: true, 
 
